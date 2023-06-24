@@ -1,4 +1,5 @@
-# **Tic-Tac-Toe Game using MVC**
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=fadeIn&height=160&section=header&text=Tic%20Tac%20Toe%20Game%20using%20MVC&fontSize=60)
 
 ## Objective
 The major objective of this implementation was to use,
@@ -12,4 +13,4 @@ The major objective of this implementation was to use,
 * User 1 gets the first chance, then user 2 gets the chance, and so on.
 * Based on the pick, the game might continue (in which case the other player should get his/her turn) or end with either a win to the current player or a draw. When the game ends the results should be displayed in a different window.
 
-### Read Wiki to more details
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=fadeIn&height=160&section=footer)
